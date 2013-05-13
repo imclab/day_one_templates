@@ -1,8 +1,5 @@
-day_one_templates
+Day One Templates (TextExpander Snippets)
 =================
-
-TextExpander snippets for Day One Entries
-
 
 ## Doctor Appointment - Adult
 
