@@ -6,7 +6,7 @@ TextExpander snippets for Day One Entries
 
 ## Doctor Appointment - Adult
 
-  # Doctor Appointment - foo #
+  `# Doctor Appointment - foo #
   
   ## Metrics ##
   
@@ -32,4 +32,4 @@ TextExpander snippets for Day One Entries
   
   ---- 
   
-  Categories: #Medical, #Family
+  Categories: #Medical, #Family`
