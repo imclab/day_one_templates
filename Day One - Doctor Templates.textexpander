@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Day One - Doctor Templates</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string></string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-05-13T18:39:40Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Doctor Appt. - ChildName Sick</string>
+			<key>modificationDate</key>
+			<date>2013-05-13T19:00:32Z</date>
+			<key>plainText</key>
+			<string># Doctor Appointment - ChildName #
+
+## Symptoms ## 
+
+* Temperature: 
+
+
+## Summary ##
+
+
+&lt;!-- ## Stray Observations ## --&gt;
+&lt;!-- ## Follow Up ## --&gt;
+&lt;!-- ## Additional Information ##
+
+* [Link to scanned paperwork]() --&gt;
+
+----
+
+Categories: #Medical, #Family, #ChildName
+</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>38D789E5-0852-4194-A5AC-2EB17789EAA9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string></string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-05-13T18:32:58Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Doctor Appt - ChildName Checkup</string>
+			<key>lastUsed</key>
+			<date>2013-05-13T18:34:46Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-13T19:00:35Z</date>
+			<key>plainText</key>
+			<string># ChildName's XX-Month Checkup #
+
+## Measurements ##
+
+| Type               | Measurement | Percentile |  
+| :----------------- | :---------- | :--------: |  
+| Weight             |             |            |  
+| Length             |             |            |  
+| Head Circumference |             |            |  
+
+
+
+## Immunizations / Injections ##
+
+&lt;!-- ## Procedures ## --&gt;
+
+
+## Question &amp; Answer ##
+
+
+&lt;!-- ## Stray Observations ## --&gt;
+&lt;!-- ## Follow Up ## --&gt;
+&lt;!-- ## Additional Information ##
+
+* [Link to scanned paperwork]() --&gt;
+
+----
+
+Categories: #Medical, #Family, #ChildName</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>43D1CC6D-729F-40F9-8D65-A19E00B994FA</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string></string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-05-13T18:06:06Z</date>
+			<key>extraInfo</key>
+			<dict/>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Doctor Appointment - MyName</string>
+			<key>lastUsed</key>
+			<date>2013-05-13T18:15:24Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-13T19:00:39Z</date>
+			<key>plainText</key>
+			<string># Doctor Appointment - Foo #
+
+## Metrics ##
+
+* Blood Pressure: 
+* Weight:            
+* Temperature: 
+&lt;!-- ## Lab Results ## --&gt;
+
+## Summary ##
+
+&lt;!-- ### Symptoms ### --&gt;
+&lt;!-- ### Diagnosis ### --&gt;
+
+
+## Questions and Answers ##
+
+
+&lt;!-- ## Stray Observations ## --&gt;
+&lt;!-- ## Follow Up ## --&gt;
+&lt;!-- ## Additional Information ##
+
+* [Link to scanned paperwork]() --&gt;
+
+---- 
+
+Categories: #Medical, #Family</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>8D4865BC-B560-47FB-B90C-9A3618194EDB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
